@@ -1,0 +1,7 @@
+Credentials cache: API:1409
+        Principal: ojoubout@1337.MA
+
+  Issued                Expires               Principal
+Jul  4 11:18:33 2019  Jul  4 21:18:33 2019  krbtgt/1337.MA@1337.MA
+Jul  4 11:18:34 2019  Jul  4 21:18:33 2019  ldap/ldap.1337.ma@1337.MA
+Jul  4 11:18:34 2019  Jul  4 21:18:33 2019  HTTP/student-storage.1337.ma@1337.MA
